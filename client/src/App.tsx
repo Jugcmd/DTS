@@ -1,9 +1,11 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import api from "./config/api";
 
 function App() {
-  fetch("/api")
+  api
+    .get("/test")
     .then((response) => {
       console.log(response);
     })
