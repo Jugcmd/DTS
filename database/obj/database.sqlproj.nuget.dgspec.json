@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Jug\\OneDrive\\Desktop\\DTS\\DTS\\database\\database.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Jug\\OneDrive\\Desktop\\DTS\\DTS\\database\\database.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Jug\\OneDrive\\Desktop\\DTS\\DTS\\database\\database.sqlproj",
+        "projectName": "database",
+        "projectPath": "c:\\Users\\Jug\\OneDrive\\Desktop\\DTS\\DTS\\database\\database.sqlproj",
+        "packagesPath": "C:\\Users\\Jug\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Jug\\OneDrive\\Desktop\\DTS\\DTS\\database\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Jug\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\bin\Debug\database.dacpac
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\bin\Debug\database.dll
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\bin\Debug\database.pdb
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\obj\Debug\database.sqlproj.AssemblyReference.cache
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\obj\Debug\Model.xml
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\obj\Debug\refactor.xml
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\obj\Debug\postdeploy.sql
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\obj\Debug\predeploy.sql
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\obj\Debug\database.dll
+c:\Users\Jug\OneDrive\Desktop\DTS\DTS\database\obj\Debug\database.pdb

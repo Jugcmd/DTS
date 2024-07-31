@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQIoqpOFY4E=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Jug\\OneDrive\\Desktop\\DTS\\DTS\\database\\database.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jug\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Jug\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
